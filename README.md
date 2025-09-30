@@ -14,7 +14,7 @@ Monitoramento de estoque, vendas e desempenho por produto/produtor.
 
 Relatórios e métricas de sustentabilidade, como pegada de carbono ou uso de recursos, para apoiar escolhas mais conscientes.
 
-*Tecnologias usadas
+Tecnologias usadas
 
 Frontend moderno com React / Vue / Angular (ou outra tecnologia que você estiver usando)
 
