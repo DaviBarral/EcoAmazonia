@@ -29,6 +29,10 @@ Por que esse projeto?
 Incentiva economia local e o comércio justo na região Amazônica.
 
 Apoia a preservação ambiental ao dar visibilidade para práticas agrícolas sustentáveis.
+<img width="1910" height="752" alt="s" src="https://github.com/user-attachments/assets/42a55773-2695-43fe-bab3-144a41e22987" />
+
+
+
 
 Promove transparência ao consumidor sobre a origem e o impacto dos alimentos que consome.
 
